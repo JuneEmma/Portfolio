@@ -1,0 +1,12 @@
+/* color attributes */
+:root {
+  --mainText: #fff;
+  --altText: #eeeeee;
+  --mainColor: #232b2b;
+  --altColor: #3b444b;
+  --borderColor: #666666;
+  --peekColor: rgba(235, 220, 226, 0.5);
+  --peekShadow: #2b202f;
+  --buttonColor: #414a4c;
+  --linkColor: #eeeeee;
+}
